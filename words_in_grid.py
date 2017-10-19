@@ -1,3 +1,4 @@
+#python program to find list of words in a given word list. it finds words from left to right horizontally and diagonally and from top to bottom vertically
 def horizontal(l,words,v=0):
 	h_l = []
 	for i in words:
